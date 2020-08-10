@@ -1,7 +1,7 @@
 numpy
 torch
 requests
-tqdm>=4.47.0
+tqdm
 regex
 transformers>=3.0.2
 scipy
