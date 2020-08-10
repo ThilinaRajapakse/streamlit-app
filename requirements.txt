@@ -11,3 +11,4 @@ pandas
 tokenizers
 wandb
 streamlit
+simpletransformers
