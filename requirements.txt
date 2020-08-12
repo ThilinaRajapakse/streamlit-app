@@ -1,5 +1,5 @@
+https://download.pytorch.org/whl/cpu/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
 numpy
-torch
 requests
 tqdm
 regex
@@ -12,4 +12,4 @@ pandas
 tokenizers
 wandb
 streamlit
-simpletransformers
+simpletransformers>=0.47.2
